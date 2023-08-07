@@ -14,3 +14,6 @@ pFour = input("missing point four: ")
 
 # And put the user words into the story
 story = f"As the afternoon sun began to cast long shadows, Aristotle sat silently, engrossed in {pOne} contemplation. He realized that Socrates' words had touched upon a {pTwo} truth. Happiness, {pThree} desirable, was not the ultimate goal. It was merely a byproduct of a life dedicated to the pursuit of knowledge and {pFour} ."
+
+# At the end, print the last story.
+print(story)
